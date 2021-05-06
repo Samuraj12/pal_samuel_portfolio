@@ -102,16 +102,23 @@ p{
     display: grid;
     background-color: #eeeeee;
     border-radius: 50px;
-    padding: 40px;
-    width: 900px;
+    padding: 30px;
+    width:1000px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
     
     
 }
 .szöveghatter3 img{
-    width: 65%;
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     
+}
+.szöveghatter3 p{
+    margin: 30px;
 }
 .szöveghatter2{
     display: block;
@@ -138,6 +145,3 @@ a:link {
     text-align: center;
     vertical-align: middle;
 }
-
-
-    
